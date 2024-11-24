@@ -68,3 +68,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 Proyecto para desarrollo de la fp dual
 # Laravel-11-filament-3
+# fpdual2
