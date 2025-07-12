@@ -70,3 +70,4 @@ Proyecto para desarrollo de la fp dual
 # Laravel-11-filament-3
 # fpdual2
 # fpdual2
+# plataformafp
